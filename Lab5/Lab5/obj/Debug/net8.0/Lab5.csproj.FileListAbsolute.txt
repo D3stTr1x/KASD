@@ -1,0 +1,14 @@
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab5\Lab5\bin\Debug\net8.0\Lab5.exe
+C:\Users\ЗС\source\repos\Lab5\Lab5\bin\Debug\net8.0\Lab5.deps.json
+C:\Users\ЗС\source\repos\Lab5\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab5\Lab5\bin\Debug\net8.0\Lab5.dll
+C:\Users\ЗС\source\repos\Lab5\Lab5\bin\Debug\net8.0\Lab5.pdb
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.dll
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.pdb
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab5\Lab5\obj\Debug\net8.0\ref\Lab5.dll
