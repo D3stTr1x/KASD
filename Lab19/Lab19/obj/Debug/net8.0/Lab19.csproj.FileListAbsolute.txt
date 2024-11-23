@@ -1,0 +1,14 @@
+C:\Users\ЗС\source\repos\Lab19\Lab19\bin\Debug\net8.0\Lab19.exe
+C:\Users\ЗС\source\repos\Lab19\Lab19\bin\Debug\net8.0\Lab19.deps.json
+C:\Users\ЗС\source\repos\Lab19\Lab19\bin\Debug\net8.0\Lab19.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab19\Lab19\bin\Debug\net8.0\Lab19.dll
+C:\Users\ЗС\source\repos\Lab19\Lab19\bin\Debug\net8.0\Lab19.pdb
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.dll
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\refint\Lab19.dll
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.pdb
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\Lab19.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab19\Lab19\obj\Debug\net8.0\ref\Lab19.dll
