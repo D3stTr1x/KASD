@@ -1,0 +1,4 @@
+float => var2(456)
+int => var5(1011)
+double => var3(789)
+int => var1(123)

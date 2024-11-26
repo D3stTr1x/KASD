@@ -1,0 +1,14 @@
+C:\Users\ЗС\source\repos\Lab20\Lab20\bin\Debug\net8.0\Lab20.exe
+C:\Users\ЗС\source\repos\Lab20\Lab20\bin\Debug\net8.0\Lab20.deps.json
+C:\Users\ЗС\source\repos\Lab20\Lab20\bin\Debug\net8.0\Lab20.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab20\Lab20\bin\Debug\net8.0\Lab20.dll
+C:\Users\ЗС\source\repos\Lab20\Lab20\bin\Debug\net8.0\Lab20.pdb
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.dll
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\refint\Lab20.dll
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.pdb
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\Lab20.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab20\Lab20\obj\Debug\net8.0\ref\Lab20.dll

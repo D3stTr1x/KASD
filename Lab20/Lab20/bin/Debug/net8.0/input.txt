@@ -1,0 +1,9 @@
+int var1 = 123;
+float var2 = 456;
+double var3 = 789;
+int var1 = 321; 
+string var4 = 999; 
+int
+var5 =
+1011;
+double var3 = 2020;
