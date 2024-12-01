@@ -1,0 +1,15 @@
+C:\Users\ЗС\source\repos\Lab21\Lab21\bin\Debug\net8.0\Lab21.exe
+C:\Users\ЗС\source\repos\Lab21\Lab21\bin\Debug\net8.0\Lab21.deps.json
+C:\Users\ЗС\source\repos\Lab21\Lab21\bin\Debug\net8.0\Lab21.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab21\Lab21\bin\Debug\net8.0\Lab21.dll
+C:\Users\ЗС\source\repos\Lab21\Lab21\bin\Debug\net8.0\Lab21.pdb
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.sourcelink.json
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.dll
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\refint\Lab21.dll
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.pdb
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\Lab21.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab21\Lab21\obj\Debug\net8.0\ref\Lab21.dll
