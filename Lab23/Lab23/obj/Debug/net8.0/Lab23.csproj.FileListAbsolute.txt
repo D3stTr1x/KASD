@@ -1,0 +1,15 @@
+C:\Users\ЗС\source\repos\Lab23\Lab23\bin\Debug\net8.0\Lab23.exe
+C:\Users\ЗС\source\repos\Lab23\Lab23\bin\Debug\net8.0\Lab23.deps.json
+C:\Users\ЗС\source\repos\Lab23\Lab23\bin\Debug\net8.0\Lab23.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab23\Lab23\bin\Debug\net8.0\Lab23.dll
+C:\Users\ЗС\source\repos\Lab23\Lab23\bin\Debug\net8.0\Lab23.pdb
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.sourcelink.json
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.dll
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\refint\Lab23.dll
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.pdb
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\Lab23.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab23\Lab23\obj\Debug\net8.0\ref\Lab23.dll
