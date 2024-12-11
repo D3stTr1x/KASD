@@ -1,0 +1,15 @@
+C:\Users\ЗС\source\repos\Lab24\Lab24\bin\Debug\net8.0\Lab24.exe
+C:\Users\ЗС\source\repos\Lab24\Lab24\bin\Debug\net8.0\Lab24.deps.json
+C:\Users\ЗС\source\repos\Lab24\Lab24\bin\Debug\net8.0\Lab24.runtimeconfig.json
+C:\Users\ЗС\source\repos\Lab24\Lab24\bin\Debug\net8.0\Lab24.dll
+C:\Users\ЗС\source\repos\Lab24\Lab24\bin\Debug\net8.0\Lab24.pdb
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.AssemblyInfoInputs.cache
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.AssemblyInfo.cs
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.csproj.CoreCompileInputs.cache
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.sourcelink.json
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.dll
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\refint\Lab24.dll
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.pdb
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\Lab24.genruntimeconfig.cache
+C:\Users\ЗС\source\repos\Lab24\Lab24\obj\Debug\net8.0\ref\Lab24.dll
