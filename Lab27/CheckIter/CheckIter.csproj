@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="IterLib">
+      <HintPath>..\..\IterLib\IterLib\bin\Debug\net8.0\IterLib.dll</HintPath>
+    </Reference>
+    <Reference Include="MyArray">
+      <HintPath>..\..\MyArray\MyArray\bin\Debug\net8.0\MyArray.dll</HintPath>
+    </Reference>
+    <Reference Include="MyDeque">
+      <HintPath>..\..\MyDeque\MyDeque\bin\Debug\net8.0\MyDeque.dll</HintPath>
+    </Reference>
+    <Reference Include="MyHashSet">
+      <HintPath>..\..\MyHashSet\MyHashSet\bin\Debug\net8.0\MyHashSet.dll</HintPath>
+    </Reference>
+    <Reference Include="MyLinkedList">
+      <HintPath>..\..\MyLinkedList\MyLinkedList\bin\Debug\net8.0\MyLinkedList.dll</HintPath>
+    </Reference>
+    <Reference Include="MyQueue">
+      <HintPath>..\..\MyQueue\MyQueue\bin\Debug\net8.0\MyQueue.dll</HintPath>
+    </Reference>
+    <Reference Include="MyTreeMap">
+      <HintPath>..\..\MyTreeMap\MyTreeMap\bin\Debug\net8.0\MyTreeMap.dll</HintPath>
+    </Reference>
+    <Reference Include="MyTreeSet">
+      <HintPath>..\..\MyTreeSet\MyTreeSet\bin\Debug\net8.0\MyTreeSet.dll</HintPath>
+    </Reference>
+    <Reference Include="MyVector">
+      <HintPath>..\..\Vector\Vector\bin\Debug\net8.0\MyVector.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

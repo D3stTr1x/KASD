@@ -1,0 +1,164 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CheckIter/1.0.0": {
+        "dependencies": {
+          "IterLib": "1.0.0.0",
+          "MyArray": "1.0.0.0",
+          "MyDeque": "1.0.0.0",
+          "MyHashSet": "1.0.0.0",
+          "MyLinkedList": "1.0.0.0",
+          "MyQueue": "1.0.0.0",
+          "MyTreeMap": "1.0.0.0",
+          "MyTreeSet": "1.0.0.0",
+          "MyVector": "1.0.0.0"
+        },
+        "runtime": {
+          "CheckIter.dll": {}
+        }
+      },
+      "IterLib/1.0.0.0": {
+        "runtime": {
+          "IterLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyArray/1.0.0.0": {
+        "runtime": {
+          "MyArray.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyDeque/1.0.0.0": {
+        "runtime": {
+          "MyDeque.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyHashSet/1.0.0.0": {
+        "runtime": {
+          "MyHashSet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyLinkedList/1.0.0.0": {
+        "runtime": {
+          "MyLinkedList.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyQueue/1.0.0.0": {
+        "runtime": {
+          "MyQueue.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyTreeMap/1.0.0.0": {
+        "runtime": {
+          "MyTreeMap.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyTreeSet/1.0.0.0": {
+        "runtime": {
+          "MyTreeSet.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyVector/1.0.0.0": {
+        "runtime": {
+          "MyVector.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyHashMap/1.0.0.0": {
+        "runtime": {
+          "MyHashMap.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckIter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IterLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyArray/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyDeque/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyHashSet/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLinkedList/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyQueue/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyTreeMap/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyTreeSet/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyVector/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyHashMap/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
